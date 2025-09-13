@@ -41,6 +41,7 @@ https://zarcodex.github.io/Zarco-QR-Code-Generator
 │   └── main.css
 ├── images/
 │   ├── bg.jpg
+│   ├── preview.png
 │   └── favicon.png
 ├── js/
 │   └── script.js
