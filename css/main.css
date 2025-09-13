@@ -118,19 +118,26 @@ body::before {
     background-color: #ff6b6b;
     color: #fff;
     padding: 0.8rem 1.5rem;
-    border: 1px solid rgba(255, 255, 255, 0.5);
+    border: none;
     border-radius: 8px;
     font-size: 1rem;
     cursor: pointer;
     transition: all 0.2s ease-in-out;
+    box-shadow: 0 0 10px rgba(255, 107, 107, 0.5);
 }
 
 .button-group button:hover {
     transform: scale(1.05);
+    box-shadow: 0 0 20px rgba(255, 107, 107, 0.7);
 }
 
 .button-group .download-btn {
     background-color: #6B73FF;
+    box-shadow: 0 0 10px rgba(107, 115, 255, 0.5);
+}
+
+.button-group .download-btn:hover {
+    box-shadow: 0 0 20px rgba(107, 115, 255, 0.7);
 }
 
 .hero-image {
@@ -139,18 +146,18 @@ body::before {
 }
 
 #qrcode {
-    width: fit-content;
-    height: fit-content;
+    width: 256px;
+    height: 256px;
     margin: 0 auto;
     border-radius: 8px;
     transition: all 0.3s ease;
     background-color: transparent;
-    padding: 1rem;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
 }
 
 #qrcode:hover {
     transform: scale(1.05);
-    box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.5);
 }
 
 /* Responsive */
