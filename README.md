@@ -1,6 +1,6 @@
 # Zarco QR Code Generator
 
-![QR Code Generator Screenshot](images/bg.jpg) 
+![QR Code Generator Screenshot](images/preview.png) 
 
 ## Overview
 
@@ -26,19 +26,11 @@ The Zarco QR Code Generator is a sleek, modern web application designed to insta
 2.  **Generate QR Code**: Click the "Generate" button to instantly display your QR code.
 3.  **Download QR Code**: Click the "Download" button to save the generated QR code as a `qrcode.png` file to your device.
 
-## Setup
+## Preview:
 
-To run this project locally:
+You can preview this project using this link:
+https://zarcodex.github.io/Zarco-QR-Code-Generator
 
-1.  Clone the repository:
-    ```bash
-    git clone <repository-url>
-    ```
-2.  Navigate to the project directory:
-    ```bash
-    cd qrcode
-    ```
-3.  Open `index.html` in your web browser.
 
 ## Project Structure
 
