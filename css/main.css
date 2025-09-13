@@ -77,7 +77,7 @@ body::before {
 
 .hero-text {
   flex: 1 1 400px;
-  text-align: center;
+  text-align: left;
 }
 
 .hero-text h1 {
@@ -110,7 +110,7 @@ body::before {
 
 .button-group {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 1rem;
 }
 
