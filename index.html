@@ -1,1 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Zarco QR Code Generator</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css" />
+  <link rel="icon" type="image/x-icon" href="images/favicon.png">
+  <script src="library/ajax_qrcode.js"></script>
+</head>
+<body>
+  <header class="header">
+    <nav class="navbar">
+      <div class="logo">ZARCO</div>
+    </nav>
+  </header>
 
+  <div class="container">
+    <section class="hero">
+      <div class="hero-text">
+        <h1>QR Code Generator</h1>
+        <p>Instantly create custom QR codes for your business, event, or personal use.</p>
+        <input type="text" placeholder="Enter URL or text" id="inputField" />
+        <div class="button-group">
+            <button onclick="generateQr()">Generate</button>
+            <button onclick="downloadQr()" class="download-btn">Download</button>
+        </div>
+      </div>
+      <div class="hero-image">
+        <div id="qrcode"></div>
+      </div>
+    </section>
+  </div>
+
+  <footer class="footer">
+    © 2025 ZarCodeX • All Rights Reserved
+  </footer>
+  <script src="js/script.js"></script>
+</body>
+</html>
