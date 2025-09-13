@@ -1,8 +1,12 @@
 // Create a new QRCode instance and show it inside the "qrcode" div
-let qrcode = new QRCode(document.getElementById("qrcode"));
-
-// Make a QR code when the page first loads with this default text
-qrcode.makeCode("Created By ZarCodeX");
+let qrcode = new QRCode(document.getElementById("qrcode"), {
+    text: "Created By ZarCodeX",
+    width: 256,
+    height: 256,
+    colorDark : "#ffffff",
+    colorLight : "transparent",
+    correctLevel : QRCode.CorrectLevel.H
+});
 
 // This function runs when the "Generate" button is clicked
 function generateQr() {
